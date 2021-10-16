@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-convert-input-web-template/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/simple-convert-input-web-template/static/js/main.3f057026.chunk.js",
+    "main.js.map": "/simple-convert-input-web-template/static/js/main.3f057026.chunk.js.map",
+    "runtime-main.js": "/simple-convert-input-web-template/static/js/runtime-main.1ec6f96a.js",
+    "runtime-main.js.map": "/simple-convert-input-web-template/static/js/runtime-main.1ec6f96a.js.map",
+    "static/js/2.e93dcc2e.chunk.js": "/simple-convert-input-web-template/static/js/2.e93dcc2e.chunk.js",
+    "static/js/2.e93dcc2e.chunk.js.map": "/simple-convert-input-web-template/static/js/2.e93dcc2e.chunk.js.map",
+    "static/js/3.1fd4aad9.chunk.js": "/simple-convert-input-web-template/static/js/3.1fd4aad9.chunk.js",
+    "static/js/3.1fd4aad9.chunk.js.map": "/simple-convert-input-web-template/static/js/3.1fd4aad9.chunk.js.map",
+    "index.html": "/simple-convert-input-web-template/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/simple-convert-input-web-template/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.e93dcc2e.chunk.js.LICENSE.txt": "/simple-convert-input-web-template/static/js/2.e93dcc2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ec6f96a.js",
+    "static/js/2.e93dcc2e.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.3f057026.chunk.js"
+  ]
+}
