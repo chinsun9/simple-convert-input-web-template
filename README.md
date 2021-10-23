@@ -1,6 +1,9 @@
 # simple convert input
 
-> 간단한 변환기 템플릿
+> 간단한 변환기 템플릿  
+> input에 대한 output을 출력하는 웹
+
+![demo](/readmeRes/demo.gif)
 
 ## 기능
 
