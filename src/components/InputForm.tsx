@@ -2,8 +2,8 @@ import styled from '@emotion/styled';
 import React from 'react';
 
 const Style = styled.form`
-  display: flex;
-  place-items: center;
+  display: grid;
+  grid-template-columns: 1fr 120px;
   margin: 4em 0;
 
   input,

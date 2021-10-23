@@ -7,7 +7,6 @@ import useStateWithHistory from 'hooks/useStateWithHistory';
 const Style = styled.main`
   display: flex;
   flex-direction: column;
-  gap: 4em;
   place-items: center;
   width: 100%;
   min-height: 100%;
